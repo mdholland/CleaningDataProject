@@ -36,7 +36,7 @@ descriptions of 561 variables contained in the original HAR dataset, I
 concluded that the appropriate signals were those whose names (see
 names in "features.txt" in the UCI HAR Dataset archive) contained the
 strings "std()" and "mean()". This choice excludes some variables
-whose names contain the string "main", but appear to be higher order
+whose names contain the string "mean", but appear to be higher order
 summaries of the signals derived from the raw inertial data. This
 choice results in the inclusion of 66 variables (33 means, 33 standard
 deviations).
