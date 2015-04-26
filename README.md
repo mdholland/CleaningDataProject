@@ -23,9 +23,9 @@ description of the original dataset.
 
 ## Contents
 In addition to this README, this repository contains the following files:
-   Codebook.md -- description of the variables in the summarized dataset
-   subject_activity_means.txt -- contains the summarized dataset
-   run_analysis.R -- contains the script necessary to produce the summarized dataset 
+* Codebook.md -- description of the variables in the summarized dataset
+* subject_activity_means.txt -- contains the summarized dataset
+* run_analysis.R -- contains the script necessary to produce the summarized dataset 
 
 ## Choice of variables 
 This dataset was prepared for the course project in "Getting and
